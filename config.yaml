@@ -1,0 +1,59 @@
+projectName: >-
+  Top <number> <cybersecurity_threat> Prevention Strategies for
+  <industry_vertical>
+jsonFilePath: ./input.json
+baseUrl: sun.com
+portalHeading: Explore Cybersecurity Solutions
+portalDescription: >-
+  GrackerAI offers a suite of AI-powered SEO solutions designed specifically for
+  companies in Cybersecurity.
+portalTitle: GrackerAI - Cybersecurity SEO Solutions
+searchPlaceholder: Search for cybersecurity insights...
+useAlphabetsCategory: true
+homeLink: sun.com
+logoLink: /
+ctaText: Get started — it's free
+aboutLink: /about/
+productsLink: /solutions/
+logoImgUrl: /_astro/logo-white.DuNP12gY_Z22gpAz.svg
+ctaLink: https://portal.gracker.ai/
+copyrightText: © Copyright 2024, Gracker. Made with ❤️ in San Francisco
+faviconUrl: /favicon.ico
+googleTagManagerId: GTM-MB8NQN6
+pagesTitle:
+  prefix: ''
+  suffix: ''
+categoryPagesTitle:
+  prefix: ''
+  suffix: ''
+templateRoot:
+  - ./templates
+  - ./templates
+homeTemplatePath: ./templates/homePageTemplate.ejs
+categoryTemplatePath: ./templates/categoryTemplate.ejs
+pageTemplatePath: ./templates/pagesTemplate.ejs
+outputDir: ./output
+socialLinks:
+  - platform: LinkedIn
+    url: https://www.linkedin.com/company/gracker-ai/
+  - platform: Twitter
+    url: https://x.com/grackerAI
+  - platform: Instagram
+    url: https://www.instagram.com/grackerai/
+theme:
+  primaryColor: '#000000'
+  secondaryColor: '#FFFFFF'
+  backgroundColor: '#F7F7F7'
+  textColor: '#333333'
+  accentColor: '#FF5722'
+fonts:
+  - family: Poppins
+    weights:
+      - 400
+      - 500
+      - 600
+  - family: Inter
+    weights:
+      - 400
+      - 500
+      - 600
